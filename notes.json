@@ -1,32 +1,22 @@
 [
   {
     "id": "1",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
-  },
-  {
-    "id": "2",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
+    "title": " Post with 1 is Updated! Learn django",
+    "content": "Django is a high-level Python web framework"
   },
   {
     "id": "3",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
+    "title": " Same post again Learn django",
+    "content": "Django is a high-level Python web framework"
   },
   {
     "id": "4",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
-  },
-  {
-    "id": "5",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
+    "title": " Same post again Learn django",
+    "content": "Django is a high-level Python web framework"
   },
   {
     "id": "6",
-    "title": " HI pakistan Learn Node Hi",
-    "content": "Hello "
+    "title": " Post with 1 is Updated Learn django",
+    "content": "Django is a high-level Python web framework"
   }
 ]
