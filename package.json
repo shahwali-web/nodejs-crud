@@ -4,17 +4,13 @@
   "description": "\"You can Create, Read, Update, and Delete\"",
   "main": "notes.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "echo \"node nodes.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shahwali-web/nodejs-crud.git"
   },
   "author": "Shah Wali",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shahwali-web/nodejs-crud/issues"
-  },
-  "homepage": "https://github.com/shahwali-web/nodejs-crud#readme"
+  "license": "ISC"
 
 }
