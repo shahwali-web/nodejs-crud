@@ -4,7 +4,7 @@
   "description": "\"You can Create, Read, Update, and Delete\"",
   "main": "notes.js",
   "scripts": {
-    "dev": "echo \"node nodes.js"
+     "dev": "node nodes.js"
   },
   "repository": {
     "type": "git",
