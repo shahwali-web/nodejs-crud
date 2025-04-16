@@ -1,24 +1,20 @@
 {
-  "name": "newnote",
+  "name": "nodejs-crud",
   "version": "1.0.0",
-  "description": "A Node.js app for managing notes",
+  "description": "\"You can Create, Read, Update, and Delete\"",
   "main": "notes.js",
   "scripts": {
-    "start": "nodemon notes.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "chokidar": "^3.6.0",
-    "debug": "^4.4.0",
-    "glob-parent": "^5.1.2",
-    "minimatch": "^3.1.2",
-    "semver": "^7.7.1",
-    "simple-update-notifier": "^2.0.0",
-    "supports-color": "^5.5.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahwali-web/nodejs-crud.git"
   },
-  "devDependencies": {
-    "nodemon": "^3.1.9"
-  },
+  "author": "Shah Wali",
   "license": "ISC",
-  "type": "module"
+  "bugs": {
+    "url": "https://github.com/shahwali-web/nodejs-crud/issues"
+  },
+  "homepage": "https://github.com/shahwali-web/nodejs-crud#readme"
+
 }

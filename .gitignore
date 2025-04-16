@@ -11,5 +11,3 @@ Thumbs.db
 # Configuration files (optional, based on your project)
 *.env
 
-# Ignore the 'testing' folder
-testing/
